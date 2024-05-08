@@ -23,3 +23,5 @@ public static int sumDigits(int number) {
 ```
 
 Este algoritmo emplea una recursividad descendente, ya que se llama a sí mismo directamente con un valor menor.
+
+La complejidad computacional de este algoritmo es O(log10(n)), donde n es el número de dígitos en el número dado. Esto se debe a que en cada llamada recursiva, el número se divide por 10, reduciendo su tamaño en un orden de magnitud.
