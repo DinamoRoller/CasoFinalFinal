@@ -1,0 +1,22 @@
+1-  ¿Deberá modificar los atributos timeline y tweets de la clase UserAccount
+(definida en el ejercicio 1) para que contenga elementos de la clase hija Retweet?
+Justifique su razonamiento y, si cree que hay que modificarlos, explique también cómo lo haría.
+
+
+Sí, sería recomendable modificar estos atributos para que puedan contener tanto "Tweet" como "Retweet". Esto
+se debe a que un retweet es una forma especial de tweet. Si se quisiera que el timeline y los tweets reflejen
+todas las actividades del usuario, incluidos los retweets, necesitariamos permitir que estos atributos almacenen
+tanto tweets normales como retweets.
+
+
+
+
+2-¿Deberá modificar el método tweet(Tweet tweet1) de la clase UserAccount (definida
+en el ejercicio 1) para que pueda enviar también objetos de tipo Retweet? Justifique
+su razonamiento y, si cree que hay que modificarlo, explique también cómo lo haría.
+
+
+Sí, seria conveniente modificar este método para que pueda manejar tanto tweets normales como retweets. Esto permitirá
+que los usuarios puedan retweetear contenido. Se podria sobrecargar el metodo tweet para aceptar tanto objetos tweet
+como retweet y en funcion del tipo de objeto, realizar las acciones correspondientes para actualizar correctamente el
+timeline y los tweets de los seguidores.
