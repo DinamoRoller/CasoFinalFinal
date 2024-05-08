@@ -4,6 +4,7 @@ El código imprimirá "1". La razón es que la funcion recursive se llama con lo
 
 Hay un error en el código. El caracter "|" en el main debería ser cambiado por el caracter "{". Además, hay un error en la lógica del algoritmo, ya que la función recursive no considera el caso en el que b sea negativo, lo que puede causar un bucle infinito. El código debería de ser así para que funcione:
 
+```
 import java.util.*;
 
 public class Main {
@@ -35,6 +36,7 @@ public class Main {
    }
    
 }
+```
 
 
 **APARTADO B**
