@@ -28,4 +28,4 @@ public class Main {
 
 **APARTADO B**
 
-El algoritmo está calculando la potencia de un número a elevado a la b, utilizando recursividad. Cuando b es 0, devuelve 1, ya que cualquier número elevado a la potencia 0 es 1. Cuando a es 0 o b es negativo, devuelve 0, ya que cualquier número elevado a una potencia negativa es 0. De lo contrario, la función se llama a sí misma con b disminuyendo en 1 en cada iteración, multiplicando a por el resultado de la llamada recursiva, lo que produce la potenccia de a elevado a b.
+El algoritmo está calculando la potencia de un número a elevado a la b, utilizando recursividad. Cuando b es 0, devuelve 1, ya que cualquier número elevado a la potencia 0 es 1. Cuando a es 0 o b es negativo, devuelve 0, ya que cualquier número elevado a una potencia negativa es 0. De lo contrario, la función se llama a sí misma con b disminuyendo en 1 en cada iteración, multiplicando a por el resultado de la llamada recursiva, lo que produce la potencia de a elevado a b.
