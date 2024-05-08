@@ -21,9 +21,7 @@ public class Main {
       } else }
           return a * recursive(a, b -1);
       }
-      
    }
-   
 }
 ```
 
