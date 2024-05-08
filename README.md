@@ -1,5 +1,8 @@
+**APARTADO 1**
+
 1-C
 
+**APARTADO 2**
 
 2-Una tabla Hash y un árbol son estructuras de datos utilizadas para almacenar y organizar datos, pero son diferentes en su implementación, rendimiento y aplicaciones.
 
@@ -9,6 +12,7 @@ Rendimiento: En el Hash, el tiempo de acceso promedio es =(1) pero puede variar 
 
 Aplicaciones: En el caso Hash, se utiliza cuando se necesita un acceso rápido a los datos y no es necesario mantener un orden específico de los elementos, por lo que resulta ideal para buscar y recuperar elementos por claves únicas. En el arbol, se utiliza cuando se necesita mantener un orden especifico de los elementos y realizar operaciones de búsqueda y eliminación eficientes. Es útil cuando se requiere iterar sobre los elementos en un orden específico, como en un árbol de búsqueda binaria.
 
+**APARTADO 3**
 
 3-Las pilas y las colas son estructuras de datos lineales que se utilizan para almacenar elementos y acceder a ellos de manera específica. Se diferencian en las características y aplicaciones.
 
@@ -16,6 +20,7 @@ Características: En las pilas, se sigue el principio LIFO (Last in, First out),
 
 Aplicaciones: En las pilas, se utiliza en problemas que implican reversión de datos, evaluación de expresiones, historial de navegación en un navegador web, entre otros. En el otro caso, en las colas se utiliza en problemas que implican tareas que deben procesarse en el orden en que se reciben, como la gestión de trabajos en un sistema de impresión, el enrutamiento de paquetes en redes de comunicación, etc.
 
+**APARTADO 4**
 
 4-El método de ordenación por inserción es un algoritmo sencillo y eficiente para ordenar elementos en una lista o arreglo. Básicamente, toma un elemento de la lista en cada iteración y lo inserta en la posición correcta entre los elementos que ya están ordenados.
 
@@ -33,6 +38,7 @@ Iteración 6: 13 16 20 22 50 84 89 85
 
 Iteración 7: 13 16 20 22 50 84 85 89
 
+**APARTADO 5**
 
 5- A=B
 
