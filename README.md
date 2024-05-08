@@ -1,6 +1,3 @@
-**APARTADO 1**
-
-1-C
 
 **APARTADO 2**
 
